@@ -65,4 +65,42 @@ nav .title {
     font-size:16px
 }
 
+#question {
+    text-decoration: none;
+    text-wrap: nowrap;
+    backface-visibility: hidden;
+    font-size: 30px;
+    border-radius: 32px;
+    width: 50px;
+    height: 50px;
+    position:absolute;
+    display:inline-block;
+    margin-left:45vh;
+}
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#home {
+    background:none;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    position: relative;
+    top: -15px;
+}
+
+#image {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+    position: relative;
+    text-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+    top: 0px; 
+    left: -5px;
+}

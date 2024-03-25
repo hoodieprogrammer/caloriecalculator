@@ -52,7 +52,7 @@ function onClick() {
 
    const bmitext = document.getElementById("bmi_label")
    const bmrtext = document.getElementById("bmr_label")
-   bmrtext.innerHTML = `${bmr} calories`
+   bmrtext.innerHTML = `${bmr} calories/day`
    bmitext.innerHTML = `${bmi} | ${stat}`
 
    const results = document.getElementById('results')
