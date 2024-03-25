@@ -2,7 +2,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+    color: black;
     justify-items: center;
 }
 
@@ -38,7 +38,7 @@ nav .title {
 }
 
 #submit {
-    position: sticky;
+    position: absolute;
     top: 90%;
     background-color: lightgreen;
     border-radius: 10px;
