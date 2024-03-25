@@ -26,8 +26,8 @@ nav .title {
 #box {
     border-radius: 5px;
     border: solid 2px gray;
-    height: 500px;
-    width: 400px;
+    height: 50vh;
+    width: 50vh;
 
     display: block;
     margin-left: auto;
