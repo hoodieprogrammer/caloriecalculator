@@ -81,6 +81,11 @@ nav .title {
     margin-left:40vh;
 }
 
+#question a {
+    margin: 0;
+    padding: 0;
+}
+
 a {
     text-decoration: none;
     color: black;
