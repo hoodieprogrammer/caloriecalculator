@@ -24,10 +24,10 @@ nav .title {
     text-wrap: nowrap;
 }
 
-#box,#box1 {
+#box {
     border-radius: 5px;
     border: solid 2px gray;
-    height: 50vh;
+    height: 500px;
     width: 50vh;
 
     display: block;
@@ -38,8 +38,8 @@ nav .title {
 }
 
 #submit {
-    position: absolute;
-    top: 85%;
+    position: sticky;
+    top: 90%;
     background-color: lightgreen;
     border-radius: 10px;
     font-size:20px;
@@ -62,7 +62,4 @@ nav .title {
     font-size:16px
 }
 
-#submit {
-    position: sticky;
-    top: 90%;
-}
+
