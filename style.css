@@ -69,7 +69,6 @@ nav .title {
     display:inline-block;
     text-decoration: none;
     text-wrap: nowrap;
-    backface-visibility: hidden;
     font-size: 30px;
     border-radius: 32px;
     width: 50px;
